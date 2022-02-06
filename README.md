@@ -1,6 +1,14 @@
-# II_PrototipoRV
-## Interfaces Inteligentes
+# II_PrototipoRV <!-- omit in toc -->
+## Interfaces Inteligentes <!-- omit in toc -->
 Prototipo en Realidad Virtual compatible con Google Cardboard para la asignatura de Interfaces Inteligentes en la Universidad de La Laguna
+
+## Tabla de Contenidos <!-- omit in toc -->
+- [Componentes del grupo](#componentes-del-grupo)
+- [Cuestiones importantes para el uso](#cuestiones-importantes-para-el-uso)
+- [Hitos de programación](#hitos-de-programación)
+- [Aspectos a destacar](#aspectos-a-destacar)
+- [GIF animado de la ejecución](#gif-animado-de-la-ejecución)
+- [Acta del distribución del trabajo](#acta-del-distribución-del-trabajo)
 
 ## Componentes del grupo
 - Viren Sajju Dhanwani Dhanwani
@@ -49,6 +57,6 @@ Prototipo en Realidad Virtual compatible con Google Cardboard para la asignatura
 ## GIF animado de la ejecución
 ![Proyecto FINAL - MainMap - Android - Unity 2019 4 34f1 Personal _DX11_ 2022-02-06 19-07-38_Trim](https://user-images.githubusercontent.com/72866839/152702265-873947aa-fa5e-4a06-b312-777713cff8d3.gif)
 
-## Acta del distribución del trabajo
+## Acta de distribución del trabajo
 
-[Enlace al acta](https://docs.google.com/document/d/1tyVVz5mZGjYmDusfFmcLtjEUNxtCVmliEoC1q0QSjBk/edit?usp=sharing)
+[Enlace al acta](./Acta_de_Distribución_del_Trabajo.pdf)
