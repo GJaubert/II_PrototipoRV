@@ -46,6 +46,9 @@ Prototipo en Realidad Virtual compatible con Google Cardboard para la asignatura
 - El usuario no tiene ninguna razón para mirar más de 60º hacia arriba y 40º hacia abajo, todas las interacciones han sido diseñadas para facilitar la comodidad de la experiencia.
 - Evaluación de las decisiones para escoger la escena final del jugador.
 
+## GIF animado de la ejecución
+![Proyecto FINAL - MainMap - Android - Unity 2019 4 34f1 Personal _DX11_ 2022-02-06 19-07-38_Trim](https://user-images.githubusercontent.com/72866839/152702265-873947aa-fa5e-4a06-b312-777713cff8d3.gif)
+
 ## Acta del distribución del trabajo
 
 [Enlace al acta](https://docs.google.com/document/d/1tyVVz5mZGjYmDusfFmcLtjEUNxtCVmliEoC1q0QSjBk/edit?usp=sharing)
