@@ -40,7 +40,7 @@ Prototipo en Realidad Virtual compatible con Google Cardboard para la asignatura
 - Desplazamiento del jugador mediante teletransporte suavizado gracias a transiciones _fade_in/fade_out_.
 - La música y los _assets_ se gestionan en cada escena para generar distintas atmósferas.
 - Restricción del desplazamiento del jugador sobre el plano del suelo.
-- Mundo abierto pero locomoción limitada por obstáculos (vallas, paredes, mar).
+- Mundo cerrado con locomoción limitada por obstáculos (vallas, paredes, mar).
 - Todos los objetos interactuables desde la altura del usuario (evitando posiciones y giros de cuello incómodos).
 - Todos los objetos están bien escalados y posicionados para situar y guiar espacialmente al usuario.
 - El suelo de las escenas ayuda a entender la altura correcta en la que se encuentra el usuario.
