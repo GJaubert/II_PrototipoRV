@@ -3,12 +3,20 @@
 Prototipo en Realidad Virtual compatible con Google Cardboard para la asignatura de Interfaces Inteligentes en la Universidad de La Laguna
 
 ## Tabla de Contenidos <!-- omit in toc -->
+- [Gameplay](#gameplay)
 - [Componentes del grupo](#componentes-del-grupo)
 - [Cuestiones importantes para el uso](#cuestiones-importantes-para-el-uso)
 - [Hitos de programación](#hitos-de-programación)
 - [Aspectos a destacar](#aspectos-a-destacar)
 - [GIF animado de la ejecución](#gif-animado-de-la-ejecución)
 - [Acta del distribución del trabajo](#acta-del-distribución-del-trabajo)
+
+## Gameplay
+[Video](https://youtu.be/MaXoNlbRJjc)
+
+[BadEnding](https://youtu.be/6XeRzoWyoK4)
+
+[GoodEnding](https://youtu.be/xvNrXgml8Mc)
 
 ## Componentes del grupo
 - Viren Sajju Dhanwani Dhanwani
